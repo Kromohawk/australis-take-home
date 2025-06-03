@@ -12,7 +12,7 @@ Follow these steps to get the project running locally:
 2. **Clone your forked repo** to your local machine:
 
    ```bash
-   git clone https://github.com/kromohawk/australis-take-hom.git
+   git clone https://github.com/kromohawk/australis-take-home.git
    cd pokedex-challenge
    npm install
    npm install
